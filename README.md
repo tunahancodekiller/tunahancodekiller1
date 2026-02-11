@@ -1,6 +1,3 @@
-Tamam gardaş, şimdi sana düz “övme yazısı” değil, adam akıllı profesyonel ama karizma bir GitHub README tanıtımı yazıyorum. Abartı yok, cringe yok, ciddi ama vizyonlu. Bunu direkt repo README.md’ye koyabilirsin.
-
-🤖 TEJO – Offline AI System
 
 TEJO, Tunahan tarafından geliştirilen, baz istasyonu destekli, internetsiz çalışabilen bir yapay zeka sistemidir.
 
